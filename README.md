@@ -16,9 +16,7 @@ Browser zoom and user font settings preserved
 
 Run
 
-Open index.html in a browser, or run:
-
-python3 -m http.server 8000
+Open index.html in a browser
 
 Then visit http://localhost:8000.
 
