@@ -18,8 +18,6 @@ Run
 
 Open index.html in a browser
 
-Then visit http://localhost:8000.
-
 AI assistance
 
 Created with ChatGPT using a prompt requiring semantic HTML, CSS variables, accessible clamp() formulas, a 65–75 ch measure, optical text trimming, and no root font-size override.
